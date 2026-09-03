@@ -1,6 +1,6 @@
 # OneK1K SV–sc-eQTL pipeline
 
-A modular pipeline for structural-variant (SV) and VNTR imputation followed by single-cell/pseudobulk eQTL mapping. It was distilled from the OneK1K SV–sc-eQTL analysis and rewritten to remove cohort-specific paths, scheduler commands, and one-off plotting code.
+A modular pipeline for structural-variant (SV) and VNTR imputation followed by single-cell/pseudobulk eQTL mapping.
 
 The repository supports:
 
