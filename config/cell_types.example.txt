@@ -1,0 +1,15 @@
+# Replace or extend this list for another cohort.
+B_IN
+B_MEM
+CD4_ET
+CD4_NC
+CD4_SOX4
+CD8_ET
+CD8_NC
+CD8_S100B
+DC
+Mono_C
+Mono_NC
+NK_R
+NK
+Plasma

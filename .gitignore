@@ -1,0 +1,37 @@
+# Local configuration and data
+config/config.env
+data/
+results/
+work/
+logs/
+
+# Genomic data
+*.bed
+*.bim
+*.fam
+*.pgen
+*.pgi
+*.pvar
+*.pvar.zst
+*.psam
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.bcf
+*.bcf.csi
+*.parquet
+*.tsv.gz
+*.txt.gz
+
+# Python/R/editor files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.Rhistory
+.RData
+.DS_Store
+.idea/
+.vscode/
+
+# Keep compressed test fixtures if added intentionally
+!tests/fixtures/*.tsv.gz

@@ -1,0 +1,4 @@
+gene_id	sample_01	sample_02	sample_03
+GENE1	1.0	2.0	3.0
+GENE2	4.0	4.0	4.0
+GENE3	0.5	NA	1.5

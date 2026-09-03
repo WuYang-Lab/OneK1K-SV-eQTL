@@ -1,0 +1,25 @@
+name: onek1k-sv-eqtl
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - pyarrow
+  - pytest
+  - bcftools>=1.17
+  - htslib>=1.17
+  - plink
+  - plink2
+  - ucsc-liftover
+  - openjdk>=17
+  - r-base>=4.3
+  - r-data.table
+  - bioconductor-qvalue
+  - pip:
+      - tensorqtl
+      - torch
+      - pgenlib
