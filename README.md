@@ -13,7 +13,6 @@ The repository supports:
 - cis-nominal, permutation-based cis-eQTL, conditionally independent cis-eQTL, and optional trans-eQTL mapping;
 - optional joint SNP+SV conditional mapping.
 
-> Status: research pipeline. Test the workflow on one chromosome and one cell type before a production run. The example thresholds reproduce the original OneK1K analysis choices but should be reviewed for each cohort.
 
 ## Workflow
 
